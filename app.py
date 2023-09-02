@@ -40,4 +40,4 @@ scheduler.add_job(create_newsletter, 'cron', hour=7, minute=0)
 if __name__ == '__main__':
 
     scheduler.start()
-    app.run(host = '0.0.0.0', port = 5000, debug = False)
+    app.run(host = '0.0.0.0')
