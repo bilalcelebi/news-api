@@ -35,9 +35,9 @@ def createsource():
 
 scheduler = BackgroundScheduler()
 scheduler.add_job(create_newsletter, 'cron', hour=7, minute=0)
+scheduler.start()
 
 
 if __name__ == '__main__':
 
-    scheduler.start()
-    app.run(host = '0.0.0.0')
+    app.run(host = '0.0.0.0', use_reloader = False)
