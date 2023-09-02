@@ -3,7 +3,7 @@ backports.zoneinfo==0.2.1
 beautifulsoup4==4.12.2
 blinker==1.6.2
 breadability==0.1.20
-cachecontrol==0.13.1
+CacheControl==0.13.1
 cachetools==5.3.1
 certifi==2023.7.22
 cffi==1.15.1
@@ -18,7 +18,7 @@ feedfinder2==0.0.4
 feedparser==5.2.1
 filelock==3.12.3
 firebase-admin==6.2.0
-flask==2.3.3
+Flask==2.3.3
 flask-crontab==0.1.2
 google-api-core==2.11.1
 google-api-python-client==2.97.0
@@ -50,6 +50,7 @@ numpy==1.24.4
 packaging==23.1
 path==16.7.1
 Pillow==10.0.0
+pkg_resources==0.0.0
 proto-plus==1.22.3
 protobuf==4.24.2
 pyasn1==0.5.0
@@ -68,14 +69,15 @@ requests==2.31.0
 requests-file==1.5.1
 rsa==4.9
 schedule==1.2.0
+scipy==1.10.1
 six==1.16.0
 soupsieve==2.4.1
 tinysegmenter==0.3
 tldextract==3.4.4
 tqdm==4.66.1
-typing-extensions==4.7.1
+typing_extensions==4.7.1
 tzlocal==5.0.1
 uritemplate==4.1.1
 urllib3==2.0.4
-werkzeug==2.3.7
+Werkzeug==2.3.7
 zipp==3.16.2
