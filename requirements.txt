@@ -48,7 +48,7 @@ newspaper3k==0.2.8
 packaging==23.1
 path
 Pillow
-pkg_resources==0.0.0
+pkg_resources
 proto-plus==1.22.3
 protobuf
 pyasn1==0.5.0
@@ -61,7 +61,7 @@ pyparsing==3.1.1
 python-crontab==3.0.0
 python-dateutil==2.8.2
 pytz
-PyYAML==6.0.1
+PyYAML
 regex
 requests==2.31.0
 requests-file==1.5.1
