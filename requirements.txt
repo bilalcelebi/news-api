@@ -16,7 +16,7 @@ dateparser==0.7.6
 docopt==0.6.2
 feedfinder2==0.0.4
 feedparser==5.2.1
-filelock==3.12.3
+filelock
 firebase-admin==6.2.0
 Flask==2.3.3
 flask-crontab==0.1.2
