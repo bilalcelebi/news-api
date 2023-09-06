@@ -15,6 +15,7 @@ def get_keywords(text):
         return None
 
 
+
 def get_new(link, source, source_id):
 
     article = Article(link)
